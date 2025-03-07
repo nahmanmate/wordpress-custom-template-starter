@@ -1,3 +1,5 @@
+<?php get_header() ?>
+
 <h1>Hello World!</h1>
 
 <?php
@@ -8,4 +10,4 @@
         <?php }
 ?>
 
-<p>Footer</p>
+<?php get_footer() ?>
